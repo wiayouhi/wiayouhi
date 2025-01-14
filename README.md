@@ -82,6 +82,15 @@ greet()
 ---
 
 <div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=wiayouhi&show_icons=true&theme=radical" alt="Wia's GitHub Stats" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiayouhi&layout=compact&theme=radical" alt="Top Languages" width="48%">
+  </div>
+
+---
+
+<div align="center">
   <img src="https://media.giphy.com/media/xTiTnETzih3HYCaw2Q/giphy.gif?cid=ecf05e473ljlsre5snc9p6b0wtsjwjpf7g6dlu038qjim1zt&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Thanks for visiting!" width="200">
   <h3>💖 Thank you for visiting my profile! 💖</h3>
   <p>✨ Let's connect and create something amazing together! ✨</p>
