@@ -1,6 +1,6 @@
 <div align="center">
   <!-- GIF ทักทาย -->
-  <img src="https://cdn.discordapp.com/attachments/1325044282779897866/1328369499870597130/THAnawat_.WIA.png?ex=67867400&is=67852280&hm=b101f2192e9573f0da2d97cafb2cd4835454dd5f5aaa53ad43fd5ac46454650f&" alt="Profile Banner" width="100%">
+  <img src="https://ibb.co/sdvSZ2jR" alt="Profile Banner" width="100%">
   <h1 style="font-size:50px;">Welcome to Wia's Profile! 👋</h1>
 </div>
 
