@@ -1,6 +1,12 @@
 <div align="center">
   <!-- GIF ทักทาย -->
   <img src="https://i.ibb.co/5gWDP6T4/THAnawat-WIA.png" alt="Profile Banner" width="100%">
+
+  ---
+  
+  <a href="https://discord.com/users/874898422233178142">
+    <img src="https://lanyard-profile-readme.vercel.app/api/902739412172046427?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Currently%20taking%20a%20break%20from%20the%20keyboard..." alt="Discord Presence"width="50%">
+  </a>
   <h1 style="font-size:50px;">Welcome to Wia's Profile! 👋</h1>
 </div>
 
