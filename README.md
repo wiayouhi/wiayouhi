@@ -1,13 +1,13 @@
 <div align="center">
   <!-- GIF ทักทาย -->
-  <img src="https://i.ibb.co/5gWDP6T4/THAnawat-WIA.png" alt="Profile Banner" width="100%">
+  <img src="https://wianodehost.web.app/bg/THAnawat%20.WIA.png" alt="Profile Banner" width="100%">
 
   ---
   
   <a href="https://discord.com/users/902739412172046427">
     <img src="https://lanyard-profile-readme.vercel.app/api/902739412172046427?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Currently%20taking%20a%20break%20from%20the%20keyboard..." alt="Discord Presence"width="50%">
   </a>
-  <h1 style="font-size:50px;">Welcome to Wia's Profile! 👋</h1>
+  <h1 style="font-size:50px;">My name is Wia! 👋</h1>
 </div>
 
 ---
@@ -90,8 +90,8 @@ greet()
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=wiayouhi&show_icons=true&theme=radical" alt="Wia's GitHub Stats" width="48%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiayouhi&layout=compact&theme=radical" alt="Top Languages" width="48%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wiayouhi&theme=radical" alt="Wia's GitHub Stats" width="48%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wiayouhi&theme=radical&layout=compact" alt="Top Languages" width="48%">
   </div>
 
 ---
